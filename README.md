@@ -1,18 +1,22 @@
 # 조근우 | Geunwoo Cho
 
+## 대표 프로젝트
+
+AI 코딩을 활용해 개발하고 있는 개인 프로젝트와 작업 기록입니다.
+
+| 작업 | 다루는 문제와 결과물 | 확인할 곳 |
+| --- | --- | --- |
+| **Trade Journal Free** | 거래 기록과 복기 자료를 함께 살펴보기 위한 개인 도구. 읽기 전용 거래소 동기화, 거래별 차트 복기, 계획·실행 비교와 분석 화면을 구현 | [저장소와 실행 안내](https://github.com/alfredcho91-ux/trade-journal-free) |
+| **Quant-Lab** | 시장 지표와 트레이딩 기법을 조사·검토하기 위한 개인 도구. 추세판단, 지표 차트, 전략 검증과 매매일지 기능을 구성 | [저장소와 구현 범위](https://github.com/alfredcho91-ux/Quant-Lab) |
+| **리서치·콘텐츠 포트폴리오** | 매체 차별화를 위한 장문 콘텐츠 제안·제작과 기업 분할 이슈를 다룬 기사 구성 사례 | [대표 사례](https://geunwoo-portfolio.alfredcho91.workers.dev/#projects) |
+
+## 소개
+
 **낯선 주제를 조사하고, 필요한 지식을 익혀 실제 결과물로 만듭니다.**
 
 경제·산업 취재와 콘텐츠 기획, 캐나다 여행사의 호텔 운영을 경험했습니다. 현재는 AI 코딩을 활용해 개인 리서치·기록 도구를 만들며, 조사한 내용을 직접 사용해볼 수 있는 형태로 구체화하고 있습니다.
 
 [포트폴리오 · 한국어](https://geunwoo-portfolio.alfredcho91.workers.dev/) · [Portfolio · English](https://geunwoo-portfolio.alfredcho91.workers.dev/en/) · [LinkedIn](https://www.linkedin.com/in/alfredcho91/) · [이메일](mailto:meewoo60@naver.com)
-
-## 먼저 살펴볼 작업
-
-| 작업 | 다루는 문제와 결과물 | 확인할 곳 |
-| --- | --- | --- |
-| **리서치·콘텐츠 포트폴리오** | 매체 차별화를 위한 장문 콘텐츠 제안·제작과 기업 분할 이슈를 다룬 기사 구성 사례 | [대표 사례](https://geunwoo-portfolio.alfredcho91.workers.dev/#projects) |
-| **Trade Journal Free** | 거래 기록과 복기 자료를 함께 살펴보기 위한 개인 도구. 읽기 전용 거래소 동기화, 거래별 차트 복기, 계획·실행 비교와 분석 화면을 구현 | [저장소와 실행 안내](https://github.com/alfredcho91-ux/trade-journal-free) |
-| **Quant-Lab** | 시장 지표와 트레이딩 기법을 조사·검토하기 위한 개인 도구. 추세판단, 지표 차트, 전략 검증과 매매일지 기능을 구성 | [저장소와 구현 범위](https://github.com/alfredcho91-ux/Quant-Lab) |
 
 ## GitHub에서 볼 수 있는 작업
 
